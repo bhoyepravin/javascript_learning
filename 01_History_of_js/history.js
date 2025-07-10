@@ -12,3 +12,9 @@
 // JavaScript is often used in conjunction with HTML and CSS to create dynamic web applications. It allows developers to manipulate the Document Object Model (DOM), handle events, and perform asynchronous operations, making it a powerful tool for building modern web applications.
 
 // JavaScript is also used in various other contexts, such as server-side development with Node.js, mobile app development with frameworks like React Native, and even in desktop applications using Electron. Its versatility and ease of use have contributed to its widespread adoption across different domains of software development.
+
+//Javascript is backward compatible
+// This means that newer versions of JavaScript can run code written in older versions without any issues. This is important for maintaining the functionality of existing web applications and ensuring that they continue to work as expected even as the language evolves.
+
+//javascript is not forward compatible
+// This means that code written in newer versions of JavaScript may not run in older environments. For example, if you use features introduced in ES6 in your code, it may not work in browsers that only support ES5 or earlier versions. Developers need to be aware of this when writing code and may need to use transpilers like Babel to convert newer code into a format compatible with older environments.
