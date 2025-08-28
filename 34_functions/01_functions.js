@@ -12,10 +12,9 @@
 
 //
 
-function twoPlusFour() {
-  console.log(2 + 4);
-}
+// function twoPlusFour() {
+//   console.log(2 + 4);
+// }
 
 // call , invoke, run
-
-twoPlusFour();
+//twoPlusFour();   function call
