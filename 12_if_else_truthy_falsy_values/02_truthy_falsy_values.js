@@ -7,7 +7,7 @@
 // undefined
 // 0
 
-let firstName = "";
+let firstName = "";    
 
 if (firstName) {
   console.log("Name is present");

@@ -14,21 +14,22 @@
 
 const person = {
   name: "Pravin",
-  age: "26",
+  age: "24",
   hobbies: ["book reading", "sleeping", "coding"],
 };
-console.log(person);
+// console.log(person);
 
-console.log(person.hobbies);
+ console.log(person.hobbies);
+
 
 // how to access data from objects
-// console.log(person.name);    using dot notation
-console.log(person["name"]); //bracket notation
+//  console.log(person.name);   // using dot notation
+//  console.log(person["name"]); //bracket notation
 // console.log(person.age);     using dot notation
-console.log(person["age"]); // bracket notation
-//console.log(person.hobbies);   access data using dot notation
+// console.log(person["age"]); // bracket notation
+//console.log(person.hobbies);  // access data using dot notation
 
 // how to add key value pairs to objects
-// person.gender = "male";     add data using dot notation
-person["gender"] = "male"; // add data using bracket notation
+ person.gender = "male";    // add data using dot notation
+// person["gender"] = "male"; // add data using bracket notation
 console.log(person);

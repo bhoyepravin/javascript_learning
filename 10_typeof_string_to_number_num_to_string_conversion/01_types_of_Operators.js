@@ -3,8 +3,8 @@
 // // data types  (primitive data types)
 // // string "pravin"
 // // number 1,2,3,4,5
-// // booleans
-// // undefined
+// // booleans  true, false
+// // undefined 
 // // null
 // // BigInt
 // // symbols
@@ -24,7 +24,7 @@
 // let myStr = +"20"; // using unary plus operator
 // console.log(typeof myStr);
 
-// Other metho
+// Other method
 
 let age = "10";
 age = Number(age); // convert string to number9

@@ -5,7 +5,8 @@
 // console.log(pi);
 
 const fruits = ["apple", "banana"];
-fruits.push("grapes");
+fruits.push("grapes"); //
+// fruits = ["mango", "papaya"]; //error because we can't reassign the value of const variable
 console.log(fruits);
 
 // → Always use “const” use “let” when you need to reassign variables

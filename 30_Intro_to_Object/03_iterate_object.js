@@ -1,4 +1,4 @@
-// how to iterate object
+// how to iterate object means how to access all the key value pairs from object
 
 const person = {
   name: "pravin",
@@ -21,10 +21,10 @@ const person = {
 // 2nd way to iterate object
 // object.keys
 
-// console.log(typeof Object.keys(person));
-// const val = Array.isArray(Object.keys(person));
-// console.log(val);
+console.log(typeof Object.keys(person));
+const val = Array.isArray(Object.keys(person));
+console.log(val);
 
-for (let key of Object.keys(person)) {
-  console.log(person[key]);
-}
+// for (let key of Object.keys(person)) {
+//   console.log(person[key]);
+// }

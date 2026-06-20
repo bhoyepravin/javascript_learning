@@ -9,4 +9,7 @@ console.log(firstName); // Output: Pravin
 // var firstName = "Kumar"; // valid
 // console.log(firstName); // Output: Pravin
 
-// block scope vs function scope  see next lecture
+
+// block scope vs function scope
+// variables declared with let keyword are block scoped
+// variables declared with var keyword are function scoped

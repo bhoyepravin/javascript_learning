@@ -1,5 +1,5 @@
 // unshift add element to start
-
+// add element to start of array
 let fruits = ["apple", "mango", "grapes"];
 
 console.log(fruits);

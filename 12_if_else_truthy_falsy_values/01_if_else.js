@@ -16,6 +16,8 @@ if (age >= 18) {
 
 let num = 15;
 
+// console.log(9%2); // 1 reminder
+
 if (num % 2 === 0) {
   console.log("even number");
 } else {

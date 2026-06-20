@@ -1,6 +1,6 @@
 // arrays
 
-// arrays are mutable
+// arrays are mutable mean we can change the value of array
 
 let fruits = ["apple", "mango", "grapes"];
 console.log(fruits);
@@ -9,7 +9,7 @@ console.log(fruits);
 
 // all refrence types is Objects
 // Array is a Object
-let obj = {};
+let obj = {};    //object literal
 console.log(typeof fruits);
 
 console.log(typeof obj);
